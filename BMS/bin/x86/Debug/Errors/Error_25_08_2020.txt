@@ -1,0 +1,4 @@
+06:40:59:ReadD100AndSaveToArray(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at BMS.FMain.ReadD100AndSaveToArray() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 253

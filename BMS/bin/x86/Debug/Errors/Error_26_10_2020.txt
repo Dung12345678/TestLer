@@ -1,0 +1,110 @@
+19:27:20:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:21:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:22:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:22:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:23:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:24:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:24:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:25:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:25:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:26:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:27:30:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+20:06:43:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+20:06:43:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+20:06:44:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+20:06:45:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+20:06:45:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+21:25:43:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+21:25:44:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+21:39:58:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+21:39:59:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+21:59:05:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+21:59:05:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422

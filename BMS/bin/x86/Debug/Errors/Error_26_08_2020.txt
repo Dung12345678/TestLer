@@ -1,0 +1,77 @@
+17:24:58:ReadD100AndSaveToArray(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at BMS.FMain.ReadD100AndSaveToArray() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 253
+19:16:31:ReadNewPLCButtonStatus(): System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:16:33:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:16:34:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:16:35:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:16:49:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:16:51:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:16:51:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:16:52:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422
+19:17:02:ReadNewPLCButtonStatus(): System.UnauthorizedAccessException: Access to the port is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 132
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 422

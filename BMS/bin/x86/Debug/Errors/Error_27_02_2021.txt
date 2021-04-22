@@ -1,0 +1,9 @@
+09:24:02:ReadD100AndSaveToArray(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at ActUtlTypeLib.ActUtlTypeClass.ReadDeviceRandom2(String szDeviceList, Int32 lSize, Int16& lpsData)
+   at BMS.FMain.ReadD100AndSaveToArray() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 251
+13:39:12:IfReadingDataBackward(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 1028
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 941
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 800

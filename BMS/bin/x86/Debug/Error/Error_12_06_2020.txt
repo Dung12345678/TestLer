@@ -1,0 +1,21 @@
+06:59:29:IfReadingDataBackward(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.FMain.WaitTo4PulseComplete() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 1098
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 919
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 793
+07:08:22:ReadNewPLCButtonStatus(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort()
+   at BMS.FMain.FMain_FormClosed(Object sender, FormClosedEventArgs e) in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 725
+   at System.Windows.Forms.Form.OnFormClosed(FormClosedEventArgs e)
+   at System.Windows.Forms.Form.RaiseFormClosedOnAppExit()
+   at System.Windows.Forms.Application.ExitInternal()
+   at System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   at System.Windows.Forms.Form.CheckCloseDialog(Boolean closingOnly)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FContinueMessageLoop(Int32 reason, Int32 pvLoopData, MSG[] msgPeeked)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 430

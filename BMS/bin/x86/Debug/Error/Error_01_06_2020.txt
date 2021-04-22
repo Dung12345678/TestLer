@@ -1,0 +1,32 @@
+11:04:44:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 1169
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 1119
+19:58:59:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 130
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 397
+19:59:01:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 130
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 397
+19:59:14:ReadNewPLCButtonStatus(): System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at System.IO.Ports.SerialPort.WriteLine(String text)
+   at BMS.wfDodaoSylvac..ctor(ActUtlType& PLC, SerialPort& COM1, SerialPort& COM2, SerialPort& COM3) in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\Button Windows\wfDodaoSylvac.cs:line 130
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 397
+19:59:29:CountNumberOfPulseX0(): System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FMain'.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.CountNumberOfPulseX0()
+19:59:29:CountNumberOfPulseX0(): System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.CountNumberOfPulseX0()

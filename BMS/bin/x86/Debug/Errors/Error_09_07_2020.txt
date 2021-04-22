@@ -1,0 +1,102 @@
+14:50:33:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+14:50:43:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+14:50:59:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+14:51:10:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+14:51:58:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+14:52:10:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+14:57:01:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+14:57:11:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:04:54:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:05:04:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:05:18:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:05:28:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:07:16:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:07:27:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:07:39:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:07:48:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:07:58:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:08:27:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:37:22:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:37:56:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:38:10:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:38:20:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:38:34:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:38:44:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:41:48:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:45:25:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:46:26:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:46:38:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:47:02:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:49:02:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 863
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 890
+15:50:40:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 943
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+15:59:41:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 861
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 888
+15:59:49:IfReadingDataBackward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 938
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 807
+16:03:29:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 861
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-09\Testerv3\ShivExcelLogging\FMain.cs:line 888

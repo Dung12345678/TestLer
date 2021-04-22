@@ -1,0 +1,5 @@
+00:12:22:IfReadingDataForward(): System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.IfReadingDataForward() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 907

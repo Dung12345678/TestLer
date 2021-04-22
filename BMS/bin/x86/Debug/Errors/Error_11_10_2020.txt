@@ -1,0 +1,3 @@
+05:11:14:ReadD100AndSaveToArray(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at ActUtlTypeLib.ActUtlTypeClass.ReadDeviceRandom2(String szDeviceList, Int32 lSize, Int16& lpsData)
+   at BMS.FMain.ReadD100AndSaveToArray() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 251

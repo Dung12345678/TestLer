@@ -1,0 +1,24 @@
+07:05:10:ReadNewPLCButtonStatus(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort()
+   at BMS.FMain.FMain_FormClosed(Object sender, FormClosedEventArgs e) in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 725
+   at System.Windows.Forms.Form.OnFormClosed(FormClosedEventArgs e)
+   at System.Windows.Forms.Form.RaiseFormClosedOnAppExit()
+   at System.Windows.Forms.Application.ExitInternal()
+   at System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   at System.Windows.Forms.Timer.TimerNativeWindow.OnThreadException(Exception e)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 400
+09:37:41:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 1169
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 1119

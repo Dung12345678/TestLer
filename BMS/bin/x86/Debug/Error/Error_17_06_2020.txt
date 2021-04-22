@@ -1,0 +1,291 @@
+10:22:19:IfReadingDataBackward(): System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at DevExpress.XtraCharts.XYDiagram2D.ApplyAxesLabelBounds(XYDiagramViewData diagramViewData)
+   at DevExpress.XtraCharts.XYDiagram2D.CalculateViewData(TextMeasurer textMeasurer, Rectangle diagramBounds, IList`1 seriesDataList, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData..ctor(Chart chart, ZPlaneRectangle bounds, ZPlaneRectangle innerBounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData.Create(Chart chart, ZPlaneRectangle bounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.Chart.PerformViewDataCalculation(Rectangle bounds, Boolean correctRanges)
+   at DevExpress.XtraCharts.Diagram.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.XYDiagram2D.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.Native.ViewController.Update(ChartUpdateInfoBase initailUpdateInfo, ChartUpdateType updateType)
+   at DevExpress.XtraCharts.Native.ViewController.ProcessChanged(ChartElement sender, ChartUpdateInfoBase updateInfo)
+   at DevExpress.XtraCharts.Native.DataContainer.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.Series.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.SeriesPointCollection.ProcessChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.RaiseControlChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.AddRange(ICollection coll)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 219
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+10:22:35:IfReadingDataForward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+10:22:38:IfReadingDataForward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+10:22:41:IfReadingDataForward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+10:22:44:IfReadingDataForward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+10:22:47:IfReadingDataForward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+10:23:55:IfReadingDataForward(): System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at DevExpress.XtraCharts.XYDiagram2D.ApplyAxesLabelBounds(XYDiagramViewData diagramViewData)
+   at DevExpress.XtraCharts.XYDiagram2D.CalculateViewData(TextMeasurer textMeasurer, Rectangle diagramBounds, IList`1 seriesDataList, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData..ctor(Chart chart, ZPlaneRectangle bounds, ZPlaneRectangle innerBounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData.Create(Chart chart, ZPlaneRectangle bounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.Chart.PerformViewDataCalculation(Rectangle bounds, Boolean correctRanges)
+   at DevExpress.XtraCharts.Diagram.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.XYDiagram2D.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.Native.ViewController.Update(ChartUpdateInfoBase initailUpdateInfo, ChartUpdateType updateType)
+   at DevExpress.XtraCharts.Native.ViewController.ProcessChanged(ChartElement sender, ChartUpdateInfoBase updateInfo)
+   at DevExpress.XtraCharts.Native.DataContainer.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.Series.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.SeriesPointCollection.ProcessChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.RaiseControlChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.AddRange(ICollection coll)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 203
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+10:24:05:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 224
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+10:24:08:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 224
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+10:24:11:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 224
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+10:24:14:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 224
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+10:24:16:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at DevExpress.XtraCharts.SeriesPointCollection.TestPoint(SeriesPoint point)
+   at DevExpress.XtraCharts.SeriesPointCollection.AddRange(SeriesPoint[] points)
+   at BMS.frmTestta2.createSeriesVibration(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 75
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 224
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+14:27:50:IfReadingDataForward(): System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at BMS.frmTestta2.addPointToSeries(List`1 lst, Series sr) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 102
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 217
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:40:01:IfReadingDataForward(): System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at DevExpress.XtraCharts.XYDiagram2D.ApplyAxesLabelBounds(XYDiagramViewData diagramViewData)
+   at DevExpress.XtraCharts.XYDiagram2D.CalculateViewData(TextMeasurer textMeasurer, Rectangle diagramBounds, IList`1 seriesDataList, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData..ctor(Chart chart, ZPlaneRectangle bounds, ZPlaneRectangle innerBounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData.Create(Chart chart, ZPlaneRectangle bounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.Chart.PerformViewDataCalculation(Rectangle bounds, Boolean correctRanges)
+   at DevExpress.XtraCharts.Diagram.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.XYDiagram2D.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.Native.ViewController.Update(ChartUpdateInfoBase initailUpdateInfo, ChartUpdateType updateType)
+   at DevExpress.XtraCharts.Native.ViewController.ProcessChanged(ChartElement sender, ChartUpdateInfoBase updateInfo)
+   at DevExpress.XtraCharts.Native.DataContainer.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.Series.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.SeriesPointCollection.ProcessChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.RaiseControlChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.OnClearComplete()
+   at DevExpress.XtraCharts.SeriesPointCollection.OnClearComplete()
+   at System.Collections.CollectionBase.Clear()
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 227
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:40:18:IfReadingDataForward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:40:24:IfReadingDataBackward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+14:40:32:IfReadingDataBackward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 209
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+14:41:15:IfReadingDataBackward(): System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at DevExpress.XtraCharts.XYDiagram2D.ApplyAxesLabelBounds(XYDiagramViewData diagramViewData)
+   at DevExpress.XtraCharts.XYDiagram2D.CalculateViewData(TextMeasurer textMeasurer, Rectangle diagramBounds, IList`1 seriesDataList, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData..ctor(Chart chart, ZPlaneRectangle bounds, ZPlaneRectangle innerBounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData.Create(Chart chart, ZPlaneRectangle bounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.Chart.PerformViewDataCalculation(Rectangle bounds, Boolean correctRanges)
+   at DevExpress.XtraCharts.Diagram.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.XYDiagram2D.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.Native.ViewController.Update(ChartUpdateInfoBase initailUpdateInfo, ChartUpdateType updateType)
+   at DevExpress.XtraCharts.Native.ViewController.ProcessChanged(ChartElement sender, ChartUpdateInfoBase updateInfo)
+   at DevExpress.XtraCharts.Native.DataContainer.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.Series.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.SeriesPointCollection.ProcessChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.RaiseControlChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.OnClearComplete()
+   at DevExpress.XtraCharts.SeriesPointCollection.OnClearComplete()
+   at System.Collections.CollectionBase.Clear()
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 249
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 994
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 929
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 802
+14:41:44:IfReadingDataForward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 202
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:41:51:IfReadingDataForward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 202
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:42:05:IfReadingDataForward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 202
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:42:11:IfReadingDataForward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 202
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:42:17:IfReadingDataForward(): System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Collections.Generic.List`1.set_Capacity(Int32 value)
+   at System.Collections.Generic.List`1.EnsureCapacity(Int32 min)
+   at System.Collections.Generic.List`1.Add(T item)
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 202
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+14:44:02:IfReadingDataForward(): System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at DevExpress.XtraCharts.XYDiagram2D.ApplyAxesLabelBounds(XYDiagramViewData diagramViewData)
+   at DevExpress.XtraCharts.XYDiagram2D.CalculateViewData(TextMeasurer textMeasurer, Rectangle diagramBounds, IList`1 seriesDataList, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData..ctor(Chart chart, ZPlaneRectangle bounds, ZPlaneRectangle innerBounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData.Create(Chart chart, ZPlaneRectangle bounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.Chart.PerformViewDataCalculation(Rectangle bounds, Boolean correctRanges)
+   at DevExpress.XtraCharts.Diagram.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.XYDiagram2D.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.Native.ViewController.Update(ChartUpdateInfoBase initailUpdateInfo, ChartUpdateType updateType)
+   at DevExpress.XtraCharts.Native.ViewController.ProcessChanged(ChartElement sender, ChartUpdateInfoBase updateInfo)
+   at DevExpress.XtraCharts.Native.DataContainer.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.Series.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.SeriesPointCollection.ProcessChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.RaiseControlChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.OnClearComplete()
+   at DevExpress.XtraCharts.SeriesPointCollection.OnClearComplete()
+   at System.Collections.CollectionBase.Clear()
+   at BMS.frmTestta2.transferDataRD(Int16[,] collectVibrate, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 227
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 999
+   at BMS.FMain.readDoneConfirmCheckLeft() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 849
+   at BMS.FMain.IfReadingDataForward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 882
+16:35:37:IfReadingDataBackward(): System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at DevExpress.XtraCharts.XYDiagram2D.ApplyAxesLabelBounds(XYDiagramViewData diagramViewData)
+   at DevExpress.XtraCharts.XYDiagram2D.CalculateViewData(TextMeasurer textMeasurer, Rectangle diagramBounds, IList`1 seriesDataList, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData..ctor(Chart chart, ZPlaneRectangle bounds, ZPlaneRectangle innerBounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.ChartViewData.Create(Chart chart, ZPlaneRectangle bounds, Boolean performRangeCorrection)
+   at DevExpress.XtraCharts.Native.Chart.PerformViewDataCalculation(Rectangle bounds, Boolean correctRanges)
+   at DevExpress.XtraCharts.Diagram.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.XYDiagram2D.Update(IList`1 activeSeries)
+   at DevExpress.XtraCharts.Native.ViewController.Update(ChartUpdateInfoBase initailUpdateInfo, ChartUpdateType updateType)
+   at DevExpress.XtraCharts.Native.ViewController.ProcessChanged(ChartElement sender, ChartUpdateInfoBase updateInfo)
+   at DevExpress.XtraCharts.Native.DataContainer.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.Series.ProcessChanged(ChartElement sender, ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.SeriesPointCollection.ProcessChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.RaiseControlChanged(ChartUpdateInfoBase changeInfo)
+   at DevExpress.XtraCharts.ChartCollectionBase.OnClearComplete()
+   at DevExpress.XtraCharts.SeriesPointCollection.OnClearComplete()
+   at System.Collections.CollectionBase.Clear()
+   at BMS.frmTestta2.transferDataRD(Double value, Int32 bitRD) in D:\LATUS\2020-06-16\Testerv2\Forms\frmTestta2.cs:line 214
+   at BMS.FMain.WaitRead20DataToArray(Int32 number) in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 997
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 932
+   at BMS.FMain.IfReadingDataBackward() in D:\LATUS\2020-06-16\Testerv2\ShivExcelLogging\FMain.cs:line 805

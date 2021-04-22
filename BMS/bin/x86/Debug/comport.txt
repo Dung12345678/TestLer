@@ -1,0 +1,2 @@
+Khe hở | Độ đảo sau lap 1 | Độ đảo sau lap 2 | Độ đảo sau lap 3 | StationPLC
+COM1 | COM2 | COM3 | COM4 | 1

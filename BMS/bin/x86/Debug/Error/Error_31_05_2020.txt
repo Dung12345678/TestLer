@@ -1,0 +1,8 @@
+00:48:19:ReadNewPLCButtonStatus(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at BMS.FMain.ReadNewPLCButtonStatus() in D:\LATUS\2020-05-30\Testler\ShivExcelLogging\FMain.cs:line 430

@@ -1,0 +1,12 @@
+lblWorkerName;NGƯỜI GIA CÔNG;加工者
+lblOrderNo;ORDER NO;オーダーNo.
+lblConfirmer;NGƯỜI XÁC NHẬN;確認者
+lblBatch;LÔ LOT;ロットNo.
+lblNgayGiaCong;NGÀY GIA CÔNG;加工日
+lblQty;SỐ LƯỢNG;数量
+lblSave;Ctrl +S : LƯU;Ctrl +S : 保存
+lblLapLai;F8 : LAP LẠI;F8 : 再ラップ
+lblLogin;F9: ĐĂNG NHẬP;F9 : ログイン
+lblSetting;F10 : CÀI ĐẶT;F10 ：設定
+lblChart;F11 : ẨN/HIỆN BIỂU ĐỒ;F11 :  グラフ表示/非表示
+lblSaveRs;F12 : LƯU VÀ LÀM MỚI;F12:　保存＆新作成

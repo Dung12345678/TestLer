@@ -1,0 +1,25 @@
+col0;Độ đảo jig lap (đối với jig không bắt được 4 ốc); 冶具振れ度（４本ボルトを締めできない冶具に運用）
+col1;Độ đảo chi tiết trước khi lắp; 組み立て前の部品の振れ度
+col2;Độ đảo chi tiết trước khi lắp; テスター前の部品の振れ度
+col3;Khe hở; ﾊﾞｯｸﾗｯｼ
+col4;Độ rung động Quay thuận; 振動さ 正転
+col5;Độ rung động Quay ngược; 振動さ 逆転
+col6;Độ đảo sau Lap 1; 1ラップ後の振れ度
+col7;Độ đảo sau Lap 2; 2ラップ後の振れ度
+col8;Độ đảo sau Lap 3; 3ラップ後の振れ度
+colResult1;Đánh giá OK/NG;評価良否
+colQtyLap;Kết quả Lap lại;再ラップ結果
+colAudio1;Âm thanh 1;音1
+colAudio2;Âm thanh 2;音2
+colImage1;Ảnh 1;写真1
+colImage2;Ảnh 2;写真2
+colImage3;Ảnh 3;写真3
+colImage4;Ảnh 4;写真4
+colImage5;Ảnh 5;写真5
+colImage6;Ảnh 6;写真6
+
+
+
+
+
+ 

@@ -1,0 +1,42 @@
+02:24:50:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1213
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1159
+02:25:21:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1213
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1159
+03:20:00:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1213
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1159
+03:20:22:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1213
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1159
+03:24:13:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1213
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1159
+03:33:41:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1213
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1159
+04:04:59:IfCompleteOneReadCyleProcessData(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.FMain.UpdateDataToAutoCellExcel(String options) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1213
+   at BMS.FMain.IfCompleteOneReadCyleProcessData() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1159

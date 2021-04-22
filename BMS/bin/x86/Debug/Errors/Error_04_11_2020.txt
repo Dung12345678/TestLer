@@ -1,0 +1,4 @@
+10:10:15:IfReadingDataBackward(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.FMain.WaitTo4PulseComplete() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 1148
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 940
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 800

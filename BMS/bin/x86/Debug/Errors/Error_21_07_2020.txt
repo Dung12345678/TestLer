@@ -1,0 +1,15 @@
+16:04:35:IfReadingDataBackward(): System.UnauthorizedAccessException: Access to the path 'D:\Testler\Audio\test_10_0_2.wav' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 806
+16:05:17:IfReadingDataBackward(): System.UnauthorizedAccessException: Access to the path 'D:\Testler\Audio\test_10_0_2.wav' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 806
+16:06:37:IfReadingDataBackward(): System.UnauthorizedAccessException: Access to the path 'D:\Testler\Audio\test_10_0_2.wav' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-07-21\Testerv3\ShivExcelLogging\FMain.cs:line 806

@@ -1,0 +1,178 @@
+11:32:04:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:32:08:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:32:11:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:34:03:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:34:07:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:34:10:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:37:17:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:37:20:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:37:23:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:41:27:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:41:30:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:41:35:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:46:39:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:46:43:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:48:20:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:48:24:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:51:45:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:51:49:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:52:28:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:52:32:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:53:43:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:53:46:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:53:50:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:53:53:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:59:18:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+11:59:22:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:00:05:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:00:08:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:04:31:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:06:20:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:06:23:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:09:10:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:09:41:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:09:59:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:10:02:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:10:06:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:11:20:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:11:24:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:12:42:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:12:46:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:12:49:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:14:24:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+12:14:27:IfReadingDataBackward(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1019
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
+15:31:58:IfReadingDataBackward(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at BMS.FMain.WaitRead20DataToArray(Int32 number, Int32 bit) in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 1016
+   at BMS.FMain.readDoneConfirmCheckRight() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 928
+   at BMS.FMain.IfReadingDataBackward() in D:\RTCSoftware\2020-06-22\Testerv3\ShivExcelLogging\FMain.cs:line 804
